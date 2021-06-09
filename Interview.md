@@ -1,16 +1,28 @@
-<h2>Can you tell a bit about yourself?</h2>
-Hello, My name is Shrey Vijayvargiya, thanks a lot for showing a bit of interest in me🙃, I define myself in 3 steps in both professional and personal life- 
-* I am a Developer by profession with 3 years of working experience. 
-* I am also a Designer by interest because I love omitting my thoughts, opinions and ideas using Designs and Software. 
-* And in the end, I called myself a Journalist by blood because I love sharing my knowledge with my audiences in whatever way I can, it's really in my blood😁 that one day I will become a Journalist.
-  
-  
-I called iHateReading a place where knowledge is shared. iHateReading is made to teach development, designing, launching and product management in the easiest and chill way.
 
- We at <a href="www.ihatereading.in">iHateReading</a> write code while listening to music, we teach UI and UX using background music and motivational beats😁✌️. We shared what we know and in which we believe, we believe in Journalism, we believe in teaching all software development and designing in one go and in a fun and easier way. 
+
+## Header
+<img src="./assets/Header Image iHateReading.png" />
+
+<h2>Can you tell a bit about yourself?</h2>
+<img src="./assets/shrey.jpeg" />
+Hello, My name is Shrey Vijayvargiya, thanks a lot for showing a bit of interest in me🙃, I define myself in 3 steps in both professional and personal life - 
+* I am a <strong>Developer by profession</strong> with 3 years of working experience. 
+*  I am also a <strong>Designer by interest</strong> because I love omitting my thoughts, opinions and ideas using Designs and Software. 
+* And in the end, I called myself a <strong>Journalist by blood</strong> because I love sharing my knowledge with my audiences in whatever way I can, it's really in my blood😁 that one day I will become a Journalist.
   
+  
+<h2>How would you describe iHateReading to someone who has never heard of it?</h2>
+<p>I called iHateReading a place where knowledge is shared. iHateReading is made to teach development, designing, launching and product management in the easiest and chill way.</p>
+
+
+<img src="./assets/homepage.png" />
+
+<p>
+ We at <a href="www.ihatereading.in">iHateReading</a> write code while listening to music, we teach UI and UX using background music and motivational beats😁✌️. We shared what we know and in which we believe, we believe in Journalism, we believe in teaching all software development and designing in one go and in a fun and easier way. </p>
+
+</p>
 Every development content we create is less than 7 minutes and <strong>full of images </strong> and <strong>coding examples </strong> and sometimes <strong> demo videos </strong> which makes understanding and learning easier. 
-Every design concept we teach encompasses <strong> videos </strong> and <strong> practical applications </strong> of them. At last, we provide a single interface for developers to come and access the world-class professional boilerplates, which makes development and learning easier. 
+Every design concept we teach encompasses <strong> videos </strong> and <strong> practical applications </strong> of them. At last, we provide a single interface for developers to come and access the world-class professional boilerplates, which makes development and learning easier.  <p>
 
 <br />
 
@@ -38,6 +50,8 @@ We have quite a bigger picture for iHateReading. Let me explain in a bit simpler
 * We are planning to create more technical content across all development domains(Backend, Frontend, Architecture, Infrastructure) in all languages we can. Sharing knowledge in less than 7 minutes with full of images and live coding examples is quite a challenge.
 * We are about to create videos and podcasts for designers on our platform to learn designing while watching. This makes learning very simple in future and with one click away you will learn design and its concepts.
 * We have a panel called Repos(www.ihatereading.in/repos), this single section is loved by users a lot. We provide world-class professional boilerplates for developers to just download and use and learn from it. I highly recommend you to check it out as it will help you to understand how large scale applications are being developed.
+
+<img src="./assets/repos.png" />
   
   
  <h2>What does the future look like for iHateReading and web development in general? Can you see any particular trends?</h2>
